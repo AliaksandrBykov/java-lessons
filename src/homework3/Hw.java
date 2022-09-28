@@ -1,5 +1,7 @@
 package homework3;
 
+import java.util.Scanner;
+
 public class Hw {
 
 
@@ -21,7 +23,21 @@ public class Hw {
 
         double percent = (200 / 470.0) * 100;
         System.out.println(percent);
-        
+
+//        Scanner in = new Scanner(System.in);
+//
+//        System.out.println("Введите ваше имя");
+//        String name = in.nextLine();
+//        System.out.println("Hello" + " " + name);
+
+//        Scanner in = new Scanner(System.in);
+//        System.out.println("Введите ваше имя");
+//        String name = in.nextLine();
+//        System.out.println("Ваше имя начинается с буквы А" + "  " + name);
+
+
+
+
 
 
 
