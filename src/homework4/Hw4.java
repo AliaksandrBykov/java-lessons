@@ -25,6 +25,23 @@ public class Hw4 {
         sum = n1 + n2 + n3;
         System.out.println("The sum of numbers is: " + sum);
     }
+    int maim(int first, int seconds ){
+
+        return 1;
+    }
+    int maim(int first, int seconds, int third ){
+        return 1;
+
+    }
+    void maim(double first, int seconds ){
+
+    }
+    void maim(double first, int seconds, int third ){
+
+    }
+    void maim(int first, double seconds ){
+
+    }
     }
 
 
